@@ -92,7 +92,7 @@ The first synthetic notebook code cell generates `data/simulated_ckd_data.csv` l
 
 ## Research visuals
 
-Nine optimized published study figures (2–6, 11, 16, 21 and 26) are now hosted in [figures/](figures/), with a [figure manifest](figures/figure_manifest.csv) and [rights and attribution notes](figures/FIGURE_RIGHTS.md). The portfolio [CKD project gallery](https://beingrazuahmed.github.io/projects.html#ckd-prediction-project) links directly to these hosted assets. The separately sourced KDIGO 2024 Figure 1 is deliberately excluded pending confirmation of redistribution rights.
+Nine optimized published study figures (2–6, 11, 16, 21 and 26) are now hosted in [figures/](figures/), with a [figure manifest](figures/figure_manifest.csv) and [rights and attribution notes](figures/FIGURE_RIGHTS.md). The portfolio [CKD project gallery](https://beingrazuahmed.github.io/projects.html#ckd-prediction-project) links directly to these hosted assets. The portfolio also visualizes the GFR × albuminuria classifications cited in the paper's KDIGO 2024 Figure 1 as an independently formatted, accessible HTML chart, with attribution and a direct link to KDIGO. The original third-party artwork itself remains excluded from redistributable figure assets.
 
 ## Automated code checks
 
