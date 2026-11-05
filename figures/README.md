@@ -25,6 +25,6 @@ Published results: stacking test accuracy **100.0%** on the 400-row UCI benchmar
 
 **Reference:** Ahmed, Rakib, Shiddik & Reza (2025), *International Journal of Statistical Sciences*, 25(2), 1–32. https://doi.org/10.3329/ijss.v25i2.85732
 
-**Rights:** These are article figures and are **not MIT software assets**. See [FIGURE_RIGHTS.md](FIGURE_RIGHTS.md). The separately sourced **KDIGO 2024 Figure 1** was supplied but deliberately not redistributed pending third-party permissions.
+**Rights:** These are article figures and are **not MIT software assets**. See [FIGURE_RIGHTS.md](FIGURE_RIGHTS.md). The original third-party **KDIGO 2024 Figure 1** artwork is not included among these redistributable assets. The [portfolio CKD project](https://beingrazuahmed.github.io/projects.html#ckd-figure-1) directly renders a separately formatted GFR × albuminuria risk matrix from the published KDIGO classification, with source attribution.
 
 [Go back to project overview](../README.md)
