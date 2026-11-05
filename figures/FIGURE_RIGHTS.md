@@ -4,6 +4,6 @@
 
 Nine author-supplied publication figures (paper Figures 2, 3, 4, 5, 6, 11, 16, 21 and 26) are prepared for the repository. They are governed by the paper's CC BY-NC-SA 4.0 license as applicable, **not** by the MIT software license. Credited third-party content must be evaluated separately.
 
-**Figure 1 (KDIGO 2024) is not redistributed** as an image in this repository or portfolio, pending verification of third-party reuse rights. Its source is instead linked directly to the [official KDIGO CKD guideline page](https://kdigo.org/guidelines/ckd-evaluation-and-management/), with clear attribution.
+**Figure 1 (KDIGO 2024) source artwork is not redistributed** as an image in this repository. The portfolio instead presents an independently formatted, accessible HTML risk-category matrix based on the published GFR and albuminuria classifications, with explicit KDIGO (2024) source attribution and a link to the [official KDIGO CKD guideline](https://kdigo.org/guidelines/ckd-evaluation-and-management/). This is not a claim of permission to redistribute KDIGO's original artwork.
 
 Figures are faithful web-optimized exports of the provided originals, not re-generated model results. Results are specific to their study datasets and do not establish independent external clinical validation.
