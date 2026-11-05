@@ -1,17 +1,30 @@
-# CKD Research Figures
+# Figures — CKD risk factors and stacking ML (2025)
 
-Nine publication figures have been prepared in the complete downloadable package. The corresponding image assets must be uploaded to this folder before the online gallery can display them.
+Selected original study figures supplied by the first author and optimized as browser-compatible **WebP** images. Figure numbers intentionally follow the *published paper*, not gallery ordering. Click a figure to inspect its full resolution.
 
-| Figure | File | Description |
-| --- | --- | --- |
-| 2 | fig02-class-distribution.webp | Class distribution before/after SMOTE |
-| 3 | fig03-correlation-heatmap.webp | Numeric correlation heatmap |
-| 4 | fig04-feature-importance.webp | Feature importance |
-| 5 | fig05-methodology-workflow.webp | Research methodology flowchart |
-| 6 | fig06-train-test-accuracy.webp | UCI training versus testing accuracy |
-| 11 | fig11-uci-accuracy.webp | UCI model accuracy |
-| 16 | fig16-uci-bootstrap-accuracy.webp | UCI bootstrap accuracy 95% CI |
-| 21 | fig21-simulated-accuracy.webp | Synthetic model accuracy |
-| 26 | fig26-simulated-bootstrap-accuracy.webp | Synthetic bootstrap accuracy 95% CI |
+| Figure | Research visual | Dataset / purpose | File |
+|---:|---|---|---|
+| **2** | Class distribution before and after SMOTE | Data preparation | [fig02-class-distribution.webp](fig02-class-distribution.webp) |
+| **3** | Correlation heatmap of numerical features | Exploratory analysis | [fig03-correlation-heatmap.webp](fig03-correlation-heatmap.webp) |
+| **4** | Random Forest feature importance | Predictor interpretation | [fig04-feature-importance.webp](fig04-feature-importance.webp) |
+| **5** | Methodology flowchart for CKD prediction | Full research workflow | [fig05-methodology-workflow.webp](fig05-methodology-workflow.webp) |
+| **6** | Training and testing accuracy on UCI CKD | UCI performance | [fig06-train-test-accuracy.webp](fig06-train-test-accuracy.webp) |
+| **11** | Model test-accuracy comparison on UCI CKD | UCI performance | [fig11-uci-accuracy.webp](fig11-uci-accuracy.webp) |
+| **16** | Bootstrap 95% confidence intervals: UCI CKD test accuracy | Uncertainty on UCI | [fig16-uci-bootstrap-accuracy.webp](fig16-uci-bootstrap-accuracy.webp) |
+| **21** | Model test-accuracy comparison on simulated CKD | Synthetic study | [fig21-simulated-accuracy.webp](fig21-simulated-accuracy.webp) |
+| **26** | Bootstrap 95% confidence intervals: simulated CKD test accuracy | Uncertainty on simulated | [fig26-simulated-bootstrap-accuracy.webp](fig26-simulated-bootstrap-accuracy.webp) |
 
-For attribution, reuse and the omission of externally sourced KDIGO Figure 1, see [FIGURE_RIGHTS.md](FIGURE_RIGHTS.md). The paper DOI is https://doi.org/10.3329/ijss.v25i2.85732.
+## Key result groups
+
+- **Data preparation and interpretability:** Figures 2–4.
+- **Methods and internal performance:** Figures 5–6, 11.
+- **UCI CKD uncertainty:** Figure 16 (bootstrap 95% CI, accuracy).
+- **Synthetic simulation:** Figure 21 (accuracy) and Figure 26 (bootstrap 95% CI, accuracy).
+
+Published results: stacking test accuracy **100.0%** on the 400-row UCI benchmark and **96.7%** on 1,000 simulated records. Bootstrap intervals reflect variability in the study's resampling procedure; simulated-data results do not establish external clinical generalizability.
+
+**Reference:** Ahmed, Rakib, Shiddik & Reza (2025), *International Journal of Statistical Sciences*, 25(2), 1–32. https://doi.org/10.3329/ijss.v25i2.85732
+
+**Rights:** These are article figures and are **not MIT software assets**. See [FIGURE_RIGHTS.md](FIGURE_RIGHTS.md). The separately sourced **KDIGO 2024 Figure 1** was supplied but deliberately not redistributed pending third-party permissions.
+
+[Go back to project overview](../README.md)
