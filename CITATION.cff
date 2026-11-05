@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "When you use this research software, cite the published article and the UCI CKD dataset where applicable."
+title: "CKD Risk Factors and Stacking Machine Learning — Research Code"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/beingrazuahmed/ckd-risk-factors-stacking-ml"
+url: "https://beingrazuahmed.github.io/projects.html#ckd-prediction-project"
+authors:
+  - family-names: Ahmed
+    given-names: Md. Razu
+    orcid: "https://orcid.org/0009-0001-8646-1881"
+  - family-names: Rakib
+    given-names: Md. Abdur
+  - family-names: Shiddik
+    given-names: Abu Bakar
+  - family-names: Reza
+    given-names: Md. Shamim
+preferred-citation:
+  type: article
+  title: "Identification of Predisposing Risk Factors for Chronic Kidney Disease and Optimizing Disease Prediction Using a Stacking Machine Learning Algorithm"
+  authors:
+    - family-names: Ahmed
+      given-names: Md. Razu
+    - family-names: Rakib
+      given-names: Md. Abdur
+    - family-names: Shiddik
+      given-names: Abu Bakar
+    - family-names: Reza
+      given-names: Md. Shamim
+  journal: International Journal of Statistical Sciences
+  year: 2025
+  volume: 25
+  issue: 2
+  start: 1
+  end: 32
+  doi: 10.3329/ijss.v25i2.85732
