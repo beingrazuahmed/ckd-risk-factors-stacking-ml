@@ -18,7 +18,7 @@ https://beingrazuahmed.github.io/projects.html#ckd-prediction-project
 
 `chronic-kidney-disease` · `machine-learning` · `stacking-ensemble` · `feature-selection` · `biomedical-data-science` · `uci-machine-learning-repository` · `synthetic-data` · `python` · `jupyter-notebook` · `reproducible-research` · `ensemble-learning` · `medical-informatics`
 
-**GitHub initialization:** Create an empty repository without an initial README, license or .gitignore: all three files are already in this package. The folder `figures/` intentionally has only a README until the publication figure sources are verified. Upload extracted contents, **not the ZIP as a single GitHub file**.
+**GitHub initialization:** Create an empty repository without an initial README, license or .gitignore: all three files are already in this package. The `figures/` directory now contains nine publication-figure WebP assets, a manifest and rights documentation. The three notebooks, `tests/test_repository.py`, and `.github/workflows/quality.yml` have also been uploaded; the automated research-code checks passed on 5 November 2026.
 
 **Web links after publication:**
 
