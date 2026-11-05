@@ -44,10 +44,11 @@ These figures are **reported in the published article**, *not* independently ver
 ├── scripts/
 │   ├── fetch_uci_ckd.py
 │   ├── verify_dataset.py
-│   └── check_release.py
-├── tests/
-├── figures/README.md             # Figure documentation; optimized images in upload package
-├── data/.gitkeep                 # No patient-record CSV files committed
+│   ├── check_release.py
+│   └── import_paper_figures.py
+├── tests/test_repository.py     # Automated repository integrity checks
+├── figures/                     # Nine WebP study figures, manifest and rights notes
+├── data/.gitkeep                # No patient-record CSV files committed
 ├── README.md, REPRODUCIBILITY.md, METHODS_AND_LIMITATIONS.md
 ├── DATA_AVAILABILITY.md, AUTHORS.md, CITATION.cff, CITATION.bib
 ├── LICENSING.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md
@@ -91,7 +92,11 @@ The first synthetic notebook code cell generates `data/simulated_ckd_data.csv` l
 
 ## Research visuals
 
-The complete **figure-ready upload package** includes nine optimized study figures (2–6, 11, 16, 21 and 26), plus a detailed figure manifest and third-party rights notices. Figure 1 (KDIGO 2024) is excluded pending separate permission. The hosted gallery will display once the figure assets are uploaded.
+Nine optimized published study figures (2–6, 11, 16, 21 and 26) are now hosted in [figures/](figures/), with a [figure manifest](figures/figure_manifest.csv) and [rights and attribution notes](figures/FIGURE_RIGHTS.md). The portfolio [CKD project gallery](https://beingrazuahmed.github.io/projects.html#ckd-prediction-project) links directly to these hosted assets. The separately sourced KDIGO 2024 Figure 1 is deliberately excluded pending confirmation of redistribution rights.
+
+## Automated code checks
+
+The GitHub Actions [CKD research-code checks](https://github.com/beingrazuahmed/ckd-risk-factors-stacking-ml/actions/workflows/quality.yml) completed successfully on 5 November 2026 after the notebooks, tests, and workflow files were uploaded. These automated integrity tests do **not** establish independent reproduction of the publication's reported accuracy values or clinical generalizability.
 
 ## Reproducibility status and limitations
 
