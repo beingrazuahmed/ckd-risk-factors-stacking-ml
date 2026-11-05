@@ -1,0 +1,10 @@
+figure_number,filename,caption,category,study_reference
+2,fig02-class-distribution.webp,Class distribution before and after SMOTE,Data preparation,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+3,fig03-correlation-heatmap.webp,Correlation heatmap of numerical features,Exploratory analysis,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+4,fig04-feature-importance.webp,Feature importance plot,Predictor interpretation,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+5,fig05-methodology-workflow.webp,Methodology flowchart for CKD prediction,Research workflow,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+6,fig06-train-test-accuracy.webp,Training and testing accuracy on UCI CKD,UCI benchmarks,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+11,fig11-uci-accuracy.webp,Model accuracy comparison on UCI CKD,UCI benchmark,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+16,fig16-uci-bootstrap-accuracy.webp,Bootstrap 95% CI for UCI accuracy,UCI bootstrap,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+21,fig21-simulated-accuracy.webp,Model accuracy comparison on simulated CKD,Synthetic benchmark,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
+26,fig26-simulated-bootstrap-accuracy.webp,Bootstrap 95% CI for synthetic accuracy,Synthetic bootstrap,Ahmed et al. 2025 doi:10.3329/ijss.v25i2.85732
